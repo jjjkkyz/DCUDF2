@@ -36,9 +36,7 @@ You can use our code in dcudf2 folder to extract mesh from unsigned distance fie
     # to run our demo
     python evaluate.py --conf confs/cloth.conf --gpu 0 --dataname 564
 
-# Acknowledgement
-This code base is built upon [DCUDF](https://github.com/jjjkkyz/DCUDF). 
-Thanks for their remarkable job !
+
 
 ## Citation
 ```
